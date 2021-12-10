@@ -1,4 +1,4 @@
-package basichost
+package base
 
 import (
 	"sync"
